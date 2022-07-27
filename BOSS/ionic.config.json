@@ -1,0 +1,7 @@
+{
+  "name": "BOSS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
